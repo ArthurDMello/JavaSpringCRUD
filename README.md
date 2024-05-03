@@ -1,2 +1,2 @@
-# JavaSpring_CRUD
+# JavaSpringCRUD
 basic crud in javaSpringBoot
